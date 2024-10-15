@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning typescript 
 - 💞️ I’m Beginners 
 - 📫 How to reach me on LinkedIn
-https://www.linkedin.com/in/beena-anum-2b2963254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium
+https://www.linkedin.com/in/beena-anum-2b2963254
 - 😇 Pronouns: AI Anum 
 
 <!---
