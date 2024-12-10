@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeenaAnum
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning typescript 
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m Beginners 
 - 📫 How to reach me on LinkedIn
 https://www.linkedin.com/in/beena-anum-2b2963254
