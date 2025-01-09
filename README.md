@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web & Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://custom-css-portfolio-two.vercel.app/](https://custom-css-portfolio-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vercel.com/beena-anums-projects](https://vercel.com/beena-anums-projects)
 
 - 📫 How to reach me **beenaanum@gmail.com**
 
